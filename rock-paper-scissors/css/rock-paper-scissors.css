@@ -1,0 +1,45 @@
+/* CSS file for entire page */
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #e74c3c;	
+}
+
+#page{
+	margin-top: 10%;
+	text-align: center;
+	vertical-align: center;
+}
+
+.fa-hand-rock-o{
+	font-size: 100px;
+}
+
+.fa-hand-paper-o{
+	font-size: 90px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.fa-hand-scissors-o{
+	font-size: 100px;
+}
+
+.start_game{
+  	font-color: black;
+	background-color: #e74c3c;
+	border-color: white;
+}
+
+#page a{
+	text-decoration: none;
+	color: white;
+}
+
